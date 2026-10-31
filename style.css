@@ -88,6 +88,9 @@ footer{
     background-color: var(--grey-800);
     padding: 1em 2em;
     border-radius: 1em;
+    max-width: 85%;
+    text-align: center;
+    line-height: 1.5em;
 }
 
 footer a{
