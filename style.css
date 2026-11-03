@@ -14,7 +14,7 @@
 
 body{
     font-family: "Inter", sans-serif;
-    font-size: 1em;
+    font-size: .85em;
     display: flex;
     flex-direction: column;
     justify-content: center;
