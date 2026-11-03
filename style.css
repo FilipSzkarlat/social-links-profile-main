@@ -32,11 +32,13 @@ main{
     background-color: var(--grey-800);
     padding: 3em;
     border-radius: 1em;
+    text-align: center;
 }
 
 main img{
     border-radius: 50%;
-    width: 100px;
+    width: 35%;
+    min-width: 100px;
 }
 
 h1{
@@ -46,12 +48,12 @@ h1{
 
 .location{
     color: var(--green);
-    margin-bottom: 2em;
+    margin-block-end: 2em;
     font-weight: 600;
 }
 
 .bio{
-    margin-bottom: 1.5em;
+    margin-block-end: 1.5em;
     opacity: 0.5;
 }
 
